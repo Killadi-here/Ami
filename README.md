@@ -1,4 +1,5 @@
-![24ad0698abf92f21d8193af12a28dc8d](https://github.com/Killadi-here/Ami/assets/118595331/aee26fd5-de84-4b98-85c5-6820445224e4)
+![Picsart_24-04-23_20-39-04-511](https://github.com/Killadi-here/Ami/assets/118595331/5b3d7705-eb01-4a0a-b24a-f45249650365)
+
 
 #Ami
 
