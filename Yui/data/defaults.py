@@ -1,4 +1,3 @@
-# Copyright (c) 2021 Itz-fork
 import os
 from config import Config
 
