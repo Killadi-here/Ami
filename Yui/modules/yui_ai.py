@@ -24,7 +24,7 @@ async def talk_with_yui(_, message: Message):
         quiz_text = message.text
     # For Public and private groups
     elif c_type == enums.ChatType.SUPERGROUP or enums.ChatType.GROUP:
-        # Regex to find if "yui" or "Yui" in the message text
+        # Regex to find if "ami" or "Ami" in the message text
         if message.text and re.search(f"{Config.CHAT_BOT_NAME}|{Config.CHAT_BOT_NAME.upper()}|{Config.CHAT_BOT_NAME.lower()}", message.text):
             quiz_text = message.text
         # For replied message
