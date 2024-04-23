@@ -18,11 +18,11 @@ class Yui_Affiliate():
 
     def __init__(self) -> None:
         self.data = {
-            "age": "16",
-            "birthyear": "2006",
-            "birthdate": "December 15, 2006",
+            "age": "21",
+            "birthyear": "2003",
+            "birthdate": "January 25, 2003",
             "birthplace": "Earth",
-            "location": "New York",
+            "location": "India",
             "build": "Yui - v1.0 (Affiliate+ Engine)",
             "version": "Yui - v1.0",
             "celebrity": "Marshmello",
