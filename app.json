@@ -1,16 +1,15 @@
 {
     "name": "Yui",
     "description": "Simple Telegram AI Chat bot made using OpenAI and Luna API",
-    "logo": "https://telegra.ph//file/af53660a0306db2653fe6.jpg",
+    "logo": "https://telegra.ph/file/f3cdcef2bc640d08b78c3.jpg",
     "keywords": [
         "ai",
         "Telegram Bot",
         "chat bot",
         "telegram chat bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Yui",
-    "success_url": "https://t.me/NexaBotsUpdates",
+    "repository": "https://github.com/Killadi-here/Ami",
+    "success_url": "https://t.me/Silusworld",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
