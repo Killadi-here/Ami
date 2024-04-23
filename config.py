@@ -1,5 +1,3 @@
-# Copyright (c) 2021 Itz-fork
-
 import os
 
 class Config(object):
