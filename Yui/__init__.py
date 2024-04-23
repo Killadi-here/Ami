@@ -1,5 +1,3 @@
-# Copyright (c) 2021 Itz-fork
-
 from pyrogram import Client
 from config import Config
 
